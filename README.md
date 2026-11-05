@@ -8,32 +8,32 @@
 ## ⭐ 今日新星 Top 8
 
 ### 1. [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)
-⭐ 3,182 ｜ 语言：TypeScript
+⭐ 3,186 ｜ 语言：TypeScript
 
 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
 
 ### 2. [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)
-⭐ 2,110 ｜ 语言：Python
+⭐ 2,125 ｜ 语言：Python
 
 Google_AI_Pro_2Year_ZeroCost_Auto
 
 ### 3. [govijr/terminal-mac](https://github.com/govijr/terminal-mac)
-⭐ 1,889 ｜ 语言：Swift
+⭐ 1,894 ｜ 语言：Swift
 
 整个 MacOS 在您的终端中运行。（原文：Entire MacOS running in your terminal.）
 
 ### 4. [Minireel/HGhub](https://github.com/Minireel/HGhub)
-⭐ 1,088 ｜ 语言：TypeScript
+⭐ 1,089 ｜ 语言：TypeScript
 
 YellowFruit第三方客户端（原文：YellowFruit third-party client）
 
 ### 5. [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai)
-⭐ 788 ｜ 语言：TypeScript
+⭐ 791 ｜ 语言：TypeScript
 
 Muse4AI — 让您的 AI 代理制作图片和视频。通过 REST、MCP 和 OAuth 实现 Muse 的本地 Windows 桥接。（原文：Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.）
 
 ### 6. [brightsongwrath/personal-data-deletor-osint](https://github.com/brightsongwrath/personal-data-deletor-osint)
-⭐ 644 ｜ 语言：JavaScript
+⭐ 646 ｜ 语言：JavaScript
 
 要求 970 数据经纪人删除您的数据。免费，本地，无帐户，无服务器。（原文：Ask 970 data brokers to delete your data. Free, local, no account, no server.）
 
@@ -48,5 +48,15 @@ Muse4AI — 让您的 AI 代理制作图片和视频。通过 REST、MCP 和 OAu
 自动 YouTube 视频上传器，具有批处理、缩略图支持和计划发布功能。使用官方 YouTube 数据 API v3。开源和隐私-...（原文：Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-…）
 
 ---
-同矩阵：向上生长｜AI实干笔记 https://t.me/AIShengzhang ｜ 白嫖线报局 https://t.me/FreeLootDailyHub ｜ 币圈线报局 https://t.me/CryptoAlphaBrief
 数据源：GitHub Search API（近3天新建仓库、stars>80、按星标排序）· 自动生成，项目质量请自行甄别。
+
+## 🔗 相关
+
+- 👤 矩阵主页：[xwdeshenghuo](https://github.com/xwdeshenghuo) — 五个 Telegram 频道总入口
+- 🎁 [免费游戏总清单 free-games-daily](https://github.com/xwdeshenghuo/free-games-daily)｜频道 [白嫖线报局](https://t.me/FreeLootDailyHub)
+- 🎮 [Epic 清单](https://github.com/xwdeshenghuo/epic-free-games-cn)｜[Steam 清单](https://github.com/xwdeshenghuo/steam-free-games-cn)
+- 🐙 [开源日报 daily-github-rising](https://github.com/xwdeshenghuo/daily-github-rising)｜频道 [开源线报局](https://t.me/OpenSourceBrief)
+- 📖 [Muse 注册教程](https://github.com/xwdeshenghuo/muse-invite-code-guide)｜主频道 [向上生长](https://t.me/AIShengzhang)
+- 💼 [远程岗位 remote-jobs-cn](https://github.com/xwdeshenghuo/remote-jobs-cn)｜频道 [远程工作线报](https://t.me/RemoteJobsDailyHub)
+- 📊 [币圈日报 crypto-daily-cn](https://github.com/xwdeshenghuo/crypto-daily-cn)｜频道 [币圈线报局](https://t.me/CryptoAlphaBrief)
+- 🤖 免费领资料：[@aishengzhang_bot](https://t.me/aishengzhang_bot)
