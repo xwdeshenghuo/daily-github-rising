@@ -13,12 +13,12 @@
 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
 
 ### 2. [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)
-⭐ 2,109 ｜ 语言：Python
+⭐ 2,110 ｜ 语言：Python
 
 Google_AI_Pro_2Year_ZeroCost_Auto
 
 ### 3. [govijr/terminal-mac](https://github.com/govijr/terminal-mac)
-⭐ 1,888 ｜ 语言：Swift
+⭐ 1,889 ｜ 语言：Swift
 
 整个 MacOS 在您的终端中运行。（原文：Entire MacOS running in your terminal.）
 
