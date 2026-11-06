@@ -1,51 +1,51 @@
 # 🐙 开源日报｜GitHub 每日新星
 
-**2026-11-05 更新** — GitHub 近 3 天新建、星标最高的新项目 Top 8，每天自动更新，中文简介优先。
+**2026-11-06 更新** — GitHub 近 3 天新建、星标最高的新项目 Top 8，每天自动更新，中文简介优先。
 
 ## 📲 实时推送 / Get it on Telegram
 👉 **开源线报局 https://t.me/OpenSourceBrief** — 开源线报局，每日更新中文版，新星项目一发布就推送。
 
 ## ⭐ 今日新星 Top 8
 
-### 1. [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)
-⭐ 3,186 ｜ 语言：TypeScript
-
-让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
-
-### 2. [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)
-⭐ 2,125 ｜ 语言：Python
+### 1. [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)
+⭐ 2,415 ｜ 语言：Python
 
 Google_AI_Pro_2Year_ZeroCost_Auto
 
-### 3. [govijr/terminal-mac](https://github.com/govijr/terminal-mac)
-⭐ 1,894 ｜ 语言：Swift
+### 2. [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder)
+⭐ 429 ｜ 语言：TypeScript
 
-整个 MacOS 在您的终端中运行。（原文：Entire MacOS running in your terminal.）
+Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.
 
-### 4. [Minireel/HGhub](https://github.com/Minireel/HGhub)
-⭐ 1,089 ｜ 语言：TypeScript
-
-YellowFruit第三方客户端（原文：YellowFruit third-party client）
-
-### 5. [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai)
-⭐ 791 ｜ 语言：TypeScript
-
-Muse4AI — 让您的 AI 代理制作图片和视频。通过 REST、MCP 和 OAuth 实现 Muse 的本地 Windows 桥接。（原文：Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.）
-
-### 6. [brightsongwrath/personal-data-deletor-osint](https://github.com/brightsongwrath/personal-data-deletor-osint)
-⭐ 646 ｜ 语言：JavaScript
-
-要求 970 数据经纪人删除您的数据。免费，本地，无帐户，无服务器。（原文：Ask 970 data brokers to delete your data. Free, local, no account, no server.）
-
-### 7. [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader)
+### 3. [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader)
 ⭐ 426 ｜ 语言：Python
 
 自动化 TikTok 视频上传器，具有批处理、调度和主题标签管理功能。基于本地会话的身份验证。开源和跨平台（原文：Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform）
 
-### 8. [dragonwolfshovel/youtube-uploader](https://github.com/dragonwolfshovel/youtube-uploader)
+### 4. [dragonwolfshovel/youtube-uploader](https://github.com/dragonwolfshovel/youtube-uploader)
 ⭐ 426 ｜ 语言：Python
 
 自动 YouTube 视频上传器，具有批处理、缩略图支持和计划发布功能。使用官方 YouTube 数据 API v3。开源和隐私-...（原文：Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-…）
+
+### 5. [Lostuaexpand/windows-animated-wallpapers](https://github.com/Lostuaexpand/windows-animated-wallpapers)
+⭐ 426 ｜ 语言：—
+
+High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS animations, low CPU usage, 4K support. Open-source and portable
+
+### 6. [DeltaProviderGuide/auto-auction-bot-wow-forever](https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever)
+⭐ 422 ｜ 语言：Rust
+
+A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.
+
+### 7. [WoYun520/pixel-gif-sticker-pack](https://github.com/WoYun520/pixel-gif-sticker-pack)
+⭐ 422 ｜ 语言：Python
+
+A Codex skill for creating and verifying animated GIF sticker packs from character references.
+
+### 8. [MythicHokageRepel/steam-inventory-value-desktop](https://github.com/MythicHokageRepel/steam-inventory-value-desktop)
+⭐ 416 ｜ 语言：JavaScript
+
+Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.
 
 ---
 数据源：GitHub Search API（近3天新建仓库、stars>80、按星标排序）· 自动生成，项目质量请自行甄别。
