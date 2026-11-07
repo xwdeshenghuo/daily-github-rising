@@ -8,40 +8,40 @@
 ## ⭐ 今日新星 Top 8
 
 ### 1. [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)
-⭐ 1,089 ｜ 语言：JavaScript
+⭐ 1,322 ｜ 语言：JavaScript
 
 ### 2. [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper)
-⭐ 958 ｜ 语言：Python
+⭐ 1,024 ｜ 语言：Python
 
-### 3. [WoYun520/pixel-gif-sticker-pack](https://github.com/WoYun520/pixel-gif-sticker-pack)
-⭐ 572 ｜ 语言：Python
-
-用于从角色引用创建和验证动画GIF贴纸包的Codex技能。（原文：A Codex skill for creating and verifying animated GIF sticker packs from character references.）
-
-### 4. [voyager-so/vork](https://github.com/voyager-so/vork)
-⭐ 480 ｜ 语言：Rust
-
-适用于特工的无头 3D 和 VFX 引擎。研究预览。（原文：Headless 3D and VFX engine for agents. Research preview.）
-
-### 5. [majorminorlabs/hermes-voice](https://github.com/majorminorlabs/hermes-voice)
-⭐ 459 ｜ 语言：Python
-
-通过Home Assistant Assist与爱马仕客服代表对话（原文：Talk to a Hermes Agent profile through Home Assistant Assist）
-
-### 6. [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)
-⭐ 440 ｜ 语言：C++
+### 3. [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)
+⭐ 828 ｜ 语言：C++
 
 《塞尔达传说：时光之塔》原生重编任天堂Switch 2翻拍（原文：A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake）
 
-### 7. [JosssphZhou/poki](https://github.com/JosssphZhou/poki)
-⭐ 437 ｜ 语言：JavaScript
+### 4. [voyager-so/vork](https://github.com/voyager-so/vork)
+⭐ 595 ｜ 语言：Rust
+
+适用于特工的无头 3D 和 VFX 引擎。研究预览。（原文：Headless 3D and VFX engine for agents. Research preview.）
+
+### 5. [WoYun520/gif-factory](https://github.com/WoYun520/gif-factory)
+⭐ 592 ｜ 语言：Python
+
+GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。
+
+### 6. [majorminorlabs/hermes-voice](https://github.com/majorminorlabs/hermes-voice)
+⭐ 472 ｜ 语言：Python
+
+通过Home Assistant Assist与爱马仕客服代表对话（原文：Talk to a Hermes Agent profile through Home Assistant Assist）
+
+### 7. [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp)
+⭐ 453 ｜ 语言：C
+
+《时之笛》在 Windows 上本机运行，无需模拟器。根据您自己的副本在您的 PC 上构建。不包含游戏文件。（原文：Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.）
+
+### 8. [JosssphZhou/poki](https://github.com/JosssphZhou/poki)
+⭐ 450 ｜ 语言：JavaScript
 
 让人工智能代理操作真正的iPhone。本地MCP服务器和代理，没有越狱，没有额外的硬件。（原文：Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.）
-
-### 8. [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader)
-⭐ 429 ｜ 语言：Python
-
-自动化 TikTok 视频上传器，具有批处理、调度和主题标签管理功能。基于本地会话的身份验证。开源和跨平台（原文：Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform）
 
 ---
 数据源：GitHub Search API（近3天新建仓库、stars>80、按星标排序）· 自动生成，项目质量请自行甄别。
