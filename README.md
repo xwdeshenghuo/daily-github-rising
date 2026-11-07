@@ -11,7 +11,7 @@
 ⭐ 1,322 ｜ 语言：JavaScript
 
 ### 2. [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper)
-⭐ 1,024 ｜ 语言：Python
+⭐ 1,025 ｜ 语言：Python
 
 ### 3. [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)
 ⭐ 828 ｜ 语言：C++
